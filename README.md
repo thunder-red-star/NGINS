@@ -1,4 +1,4 @@
-<center style="text-align: center; width: 100%"><img src="assets/logo.svg" height="128" width="128"></center>
+<center style="text-align: center; width: 100%; align-items: center; align-content: center; justify-content: center; justify-items: center"><img src="assets/logo.svg" height="128" width="128"></center>
 <hr>
 
 # NGINS
